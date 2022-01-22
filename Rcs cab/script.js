@@ -97,4 +97,4 @@ for(var i=0;i<links.length;i++){
 const modal = document.querySelector('.modal');
 setTimeout(() => {
    modal.remove()
-}, 5000);
+}, 2000);
